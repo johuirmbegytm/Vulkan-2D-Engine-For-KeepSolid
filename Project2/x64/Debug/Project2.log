@@ -1,0 +1,10 @@
+﻿  first_app.cpp
+  first_app.hpp
+C:\Users\cornflower\Desktop\mvs\2\Project2\Project2\first_app.cpp(34,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cornflower\Desktop\mvs\2\Project2\Project2\first_app.cpp(41,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cornflower\Desktop\mvs\2\Project2\Project2\first_app.cpp(99,39): warning C4305: 'argument': truncation from 'double' to 'float'
+  physics_and_field.cpp
+C:\Users\cornflower\Desktop\mvs\2\Project2\Project2\physics_and_field.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\cornflower\Desktop\mvs\2\Project2\Project2\physics_and_field.cpp(18,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project2.vcxproj -> C:\Users\cornflower\Desktop\mvs\2\Project2\x64\Debug\Project2.exe
